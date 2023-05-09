@@ -1,0 +1,9 @@
+- update matching score if:
+    - holds 10 TEC 
+    or
+    - TE Academy Certificate
+    (snapshot as of 2023-05-09 23:50 UTC)
+- generate report on round statistics and effect on TE (percentage who have tec / te certificate and donate)
+    - ever since the TE Round was announced and carried out, the $TEC price has stabilised and grown.
+    - generate chart for unique holders
+    https://dune.com/queries/2457553/4040451
